@@ -2,6 +2,7 @@ package ver2;
 
 public class Account {
 	//instance variable, only available in this class
+	//new comment for balance
 	private double balance;
 	
 	//pt17
