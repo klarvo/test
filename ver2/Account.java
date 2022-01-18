@@ -8,11 +8,6 @@ public class Account {
 	//pt17
 	private String name;
 	
-	//constructor
-	public Account(double balance) {
-		this("Unknown", balance);
-	}
-	
 	public Account(String name, double balance) {
 		this.name = name;
 		this.balance = balance;
